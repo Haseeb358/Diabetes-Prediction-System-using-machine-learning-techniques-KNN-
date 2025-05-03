@@ -1,1 +1,2 @@
 # Diabetes-Prediction-System-using-machine-learning-techniques-KNN-
+## Its Jupyter NoteBook file where I developed a Diabetes Prediction System using machine learning (KNN) and performed in-depth Exploratory Data Analysis (EDA) to understand class imbalance and feature patterns. Applied data preprocessing, SMOTE for oversampling, and evaluated model performance using confusion matrix, F1-score (0.62), and classification report.
